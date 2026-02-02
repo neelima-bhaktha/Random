@@ -1,0 +1,9 @@
+# Large binaries / models
+*.mp4
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Secrets
+.env
